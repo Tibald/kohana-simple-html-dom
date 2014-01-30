@@ -21,3 +21,7 @@ Port for PHP Simple HTML DOM Parser to Kohana
 ##see manual in:
 
 	vendor/simplehtmldom/manual/manual.htm
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/madeinnordeste/kohana-simple-html-dom/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
